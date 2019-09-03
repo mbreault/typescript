@@ -4,6 +4,8 @@
   "private": true,
   "devDependencies": {
     "gulp": "3.9.0",
-    "del": "2.2.0"
+    "del": "2.2.0",
+    "lodash.template": ">=4.5.0",
+    "lodash": ">=4.17.13"
   }
 }
